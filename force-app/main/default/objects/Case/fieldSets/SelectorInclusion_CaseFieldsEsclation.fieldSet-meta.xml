@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SelectorInclusion_CaseFieldsEsclation</fullName>
+    <description>Used in the fflib selector for escalation fields</description>
+    <displayedFields>
+        <field>escal_Tier__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <label>Escalation</label>
+</FieldSet>
